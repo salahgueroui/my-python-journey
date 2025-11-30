@@ -1,4 +1,3 @@
-![Challenge](variables python challenge.png)
 ## My Solution
 name = "datawithbara.com"
 
