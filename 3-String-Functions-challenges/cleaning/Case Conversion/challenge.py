@@ -17,6 +17,6 @@ d=" salah".lower()
 print(c==d)
 
 #check if the string is equal to another string after removing spaces and converting them to lower case
-c="SALAH".lower()
-d="salah".lower()
+c="SALAH".lower().strip()
+d=" salah".lower().strip()
 print(c==d)
