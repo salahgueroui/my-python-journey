@@ -23,4 +23,7 @@ print(m.floor(3.5))
 print(m.ceil(2.5))
 print(m.ceil(3.5))
 
-
+#trunc() rounds to the nearest integer
+z=25.76157883
+print(int(z))
+print(m.trunc(z))
