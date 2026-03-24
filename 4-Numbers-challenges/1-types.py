@@ -1,3 +1,5 @@
+# Challenge 1: Types
+# Practice working with different number types in Python (int, float, complex)
 # Numbers Types
 x=10
 y=10.5
