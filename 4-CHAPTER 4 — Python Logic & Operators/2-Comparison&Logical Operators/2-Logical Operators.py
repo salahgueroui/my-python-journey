@@ -25,8 +25,4 @@ print(name)
 print(not name)
 print(not 0)
 
-print("--------------------------")
-login=False
-guest=True
-banned=False
-print(not banned and (guest or login))
+
